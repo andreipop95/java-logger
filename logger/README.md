@@ -25,7 +25,6 @@ dependencies {
 5. **Performance** - user parameterized log messages, message buffering and batching in order to minimise I/O operations
 6. **Log filtering** - log filtering mechanism that allows the user to include / exclude logs based on a certain criteria
 7. **Log formatting** - log messages can be written in various formats like JSON or XML
-8. ****
 
 ### Improvements to simplify Big O notation of every method
 1. **String manipulation** - use StringBuilder instead of concatenating Strings 
